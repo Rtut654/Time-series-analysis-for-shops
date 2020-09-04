@@ -1,6 +1,10 @@
 # Time-series-analysis-for-shops
 Клиент (продуктовая сеть) хочет прогнозировать входящий трафик т.е. число посетителей магазина на месяц вперед с детализацией по часу.
 
+<img src='images/shop.jpg' width=320 height=480> <img src='images/shop.jpg' width=320 height=480>
+
+
+
 В ноутбуке:
 -мини анализ данных
 
